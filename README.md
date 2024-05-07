@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi guys, I'm Daniel da Silva Bomfim. I'm studying on Alura Start! 
 <!--
 **sccpbomfim/sccpbomfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](![corinthians](https://github.com/sccpbomfim/sccpbomfim/assets/169154498/6e37fb89-7873-4f29-b702-7fb5d47fe18d)
+)
